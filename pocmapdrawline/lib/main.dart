@@ -51,7 +51,7 @@ class _MyHomePageState extends State<MyHomePage> {
   // este é o objeto chave - o PolylinePoints
   // que gera cada polilinha entre o início e o fim
   PolylinePoints polylinePoints = PolylinePoints();
-  String googleAPIKey = 'AIzaSyDQCZtpEAddNrE0CVK4qTYr3t52lZ8BJM8';
+  String googleAPIKey = '';
 
 // para meus ícones personalizados
   late BitmapDescriptor sourceIcon;
